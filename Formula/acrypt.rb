@@ -3,10 +3,10 @@ class Acrypt < Formula
   homepage "https://github.com/GODall10/acrypt"
   
   
-  url "https://github.com/GODall10/acrypt/archive/refs/tags/v-1.0.0.tar.gz"
+  url "https://github.com/GODall10/acrypt/archive/refs/tags/v1.0.0.tar.gz"
   
 
-  sha256 "3fd75afa1523a93d0376da9f4f68a76f70affbe11801c0b5f472d3fc7282341a"
+  sha256 "b670089d9a2ec09553b4a64972dfb544980ada6fbc96d2ca3c99c1af5e6e1d81"
   
   license "MIT"
 
