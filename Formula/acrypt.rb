@@ -8,7 +8,7 @@ class Acrypt < Formula
   version "1.0.0"
   
 
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "a4c7b868da9d85d0b7bf5e5a38eb9734240f9452d18a9f8d58b8021d67b745a9"
   
   license "MIT"
 
